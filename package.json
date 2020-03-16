@@ -1,0 +1,8 @@
+{
+  "name": "exp-node-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saikrishna-commits/express-node-typescript.git",
+  "author": "cyberbot143 <krishnasai952@gmail.com>",
+  "license": "MIT"
+}
